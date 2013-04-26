@@ -1,14 +1,11 @@
-Gameboy Cribsheet
-=================
+* Welcome
+Thanks for downloading Gameboy Cribsheet.
 
-Welcome
-====================
-Thanks for your interest in Gameboy Cribsheet. This project is now hosted at
- https://bitbucket.org/JustinLloyd/gameboy-cribsheet
+Visit https://bitbucket.org/JustinLloyd/gameboy-cribsheet/overview for 
+more information and to download the latest version.
 
 
-License
-====================
+* License
                       DO WHATEVER PUBLIC LICENSE*
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
@@ -23,8 +20,7 @@ License
  Software originally created by Justin Lloyd @ http://otakunozoku.com/
 
 
-About
-====================
+* About
 Technical notes on aspects of the Nintendo Gameboy useful to game developers
 working on that particular platform. In the days of Gameboy development this
 was a much sought after document and I ran a developer mailing list at the time
@@ -40,12 +36,10 @@ Adobe Illustrator though you will have to fiddle with the layers to access the
 separate pages.
 
 
-Pre-requisites
-====================
+* Pre-requisites
 1. Corel Draw or Adobe Illustrator or anything that can import a .cdr file
 
-Support
-====================
+* Support
 Absolutely none provided.
 
 
@@ -55,3 +49,4 @@ Absolutely none provided.
   added two extra clauses to the DO WHATEVER PUBLIC LICENSE that prevents you
   from revoking the license and preventing other people from doing whatever
   they want to with the work.
+  
